@@ -194,7 +194,8 @@ pip install opencv-python tensorflow torch numpy
 ```bash
 python detect_cracks.py
 ```
-
+Youtube link:
+https://youtu.be/4MqV2tyKS3M?si=F_sJnzSzP6MZdsBd 
 ---
 
 ## 🔮 Future Improvements
